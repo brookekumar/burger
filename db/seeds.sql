@@ -1,6 +1,3 @@
-USE 
-
-INSERT INTO burgers (burger_name,devoured)
-VALUES ("hamburger",0), 
-("juicy lucy",1),
-("gluten free",0);
+INSERT INTO burgers (burger_name, devoured) VALUES ("hamburger", FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ("juicy lucy", TRUE);
+INSERT INTO burgers (burger_name, devoured) VALUES ("gluten free", FALSE);
