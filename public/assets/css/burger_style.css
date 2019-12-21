@@ -21,13 +21,13 @@
   
   .devour-btn, 
   #submit-burger {
-    background-color: #e0876a;
+    background-color: #EB54B2;
     border-color: #f9ccac;
   }
   
   .devour-btn:hover, 
   #submit-burger:hover {
-    background-color: #f4a688;
+    background-color: #EB54B2;
     border-color: #f4a688;
   }
   
